@@ -1,4 +1,4 @@
-# Project README: Microservice Messaging with Kafka
+# Microservice Messaging with Kafka
 
 This project showcases a fundamental Kafka architecture implemented with a producer and consumer in a microservices environment. It serves as a foundation for leveraging Kafka in event-driven communication.
 
