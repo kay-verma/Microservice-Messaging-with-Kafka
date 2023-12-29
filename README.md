@@ -27,13 +27,13 @@ This project showcases a fundamental Kafka architecture implemented with a produ
     ```
 
 3. **Postman screenshots:**
-   ![postman](https://github.com/kay-verma/Microservice-Messaging-with-Kafka/blob/4c7970eecd4eff4dfd039d0c0c10bd444e5b3ebb/Screenshot%201.jpg){: width="80%"}
+   ![postman](https://github.com/kay-verma/Microservice-Messaging-with-Kafka/blob/4c7970eecd4eff4dfd039d0c0c10bd444e5b3ebb/Screenshot%201.jpg)
 
 
 4. **Run the producer (ApiGateway):**
-
+![gateway](https://github.com/kay-verma/Microservice-Messaging-with-Kafka/blob/0a6320edfe5d35e72f17453033194b6a4009849f/Screenshot%203.jpg)
 5. **Run the consumer (ApiConsumer):**
-
+![consumer](https://github.com/kay-verma/Microservice-Messaging-with-Kafka/blob/0a6320edfe5d35e72f17453033194b6a4009849f/Screenshot%202.jpg)
 ## Further Development:
 
 - Extend the consumer to perform actions based on message content (e.g., send emails, update databases).
