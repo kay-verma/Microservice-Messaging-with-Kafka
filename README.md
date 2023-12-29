@@ -27,7 +27,7 @@ This project showcases a fundamental Kafka architecture implemented with a produ
     ```
 
 3. **Postman screenshots:**
-   ![postman]( Screenshot 1.jpg){: width="80%"}
+   ![postman](https://github.com/kay-verma/Microservice-Messaging-with-Kafka/blob/4c7970eecd4eff4dfd039d0c0c10bd444e5b3ebb/Screenshot%201.jpg){: width="80%"}
 
 
 4. **Run the producer (ApiGateway):**
